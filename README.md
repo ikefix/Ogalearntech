@@ -1,0 +1,2 @@
+# Ogalearntech
+build html
